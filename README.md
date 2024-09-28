@@ -18,7 +18,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🔭 I’m currently working on **KalkiNi websites and FinMitr backend**
 
 - 🌱 I’m currently learning **Next.js and DevOps**
