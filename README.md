@@ -19,11 +19,11 @@
 
 ### :man_technologist: About Me :
 I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🌱 I’m currently learning **Next.js and DevOps**
+- 🌱 I’m currently learning **Cybersecurity and DevOps**
 
 - 👯 I’m looking to collaborate in **hackathons**
 
-- 💬 Ask me about **MERN and databases**
+- 💬 Ask me about **MERN, Nextjs and databases**
 
 - 📫 How to reach me **mayukhchaturvedi@gmail.com**
 
